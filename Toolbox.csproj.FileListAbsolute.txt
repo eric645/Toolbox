@@ -1,0 +1,10 @@
+c:\users\alex__000\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\Toolbox.csprojResolveAssemblyReference.cache
+c:\users\alex__000\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+c:\users\alex__000\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+c:\users\alex__000\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\Toolbox.csproj.GenerateResource.cache
+c:\users\alex__000\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\Toolbox.csproj.CoreCompileInputs.cache
+c:\users\alex__000\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+c:\users\alex__000\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+c:\users\alex__000\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+c:\users\alex__000\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+c:\users\alex__000\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
